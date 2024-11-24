@@ -1,6 +1,6 @@
 # The collection of machine learning tutorial notebooks
 
-This repository consists of jupyter botebooks that cover various machine learning techniques/algorithms. Each notebook includes the theoretical foundation to explain the concepts utilized and their practical implementation.
+This repository consists of jupyter notebooks that cover various machine learning techniques/algorithms. Each notebook includes the theoretical foundation to explain the concepts utilized and their practical implementation.
 
 ## The list of topics covered
 
