@@ -7,3 +7,4 @@ This repository consists of jupyter notebooks that cover various machine learnin
 So far, the following concepts have been covered:
 * Naive Bayes Classifier
 * Linear Regression
+* Logistic Regression
