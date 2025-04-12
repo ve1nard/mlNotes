@@ -8,3 +8,4 @@ So far, the following concepts have been covered:
 * Naive Bayes Classifier
 * Linear Regression
 * Logistic Regression
+* Support Vector Machines
