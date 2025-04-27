@@ -9,3 +9,4 @@ So far, the following concepts have been covered:
 * Linear Regression
 * Logistic Regression
 * Support Vector Machines
+* Principal Components Analysis
