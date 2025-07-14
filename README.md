@@ -10,3 +10,4 @@ So far, the following concepts have been covered:
 * Logistic Regression
 * Support Vector Machines
 * Principal Components Analysis
+* XGBoost
